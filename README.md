@@ -1,13 +1,46 @@
 # Guard Landscaping AI
 
-AI receptionist for Guard Landscaping.
+An AI-powered virtual receptionist for Guard Landscaping.
 
-Features
+## Features
 
-- AI phone answering
-- Google Calendar booking
-- SMS confirmations
+- AI answers incoming phone calls
+- Books appointments directly into Google Calendar
+- Sends SMS confirmations
 - Customer CRM
-- Dashboard
-- Appointment scheduling
 - Call transcripts
+- Dashboard
+- Appointment management
+- Call recordings
+- Business settings
+- AI prompt editor
+
+## Tech Stack
+
+### Backend
+- Node.js
+- Express
+- TypeScript
+
+### AI
+- OpenAI
+
+### Voice
+- Twilio
+
+### Database
+- PostgreSQL
+- Prisma ORM
+
+### Frontend
+- Next.js
+- React
+- Tailwind CSS
+
+### Hosting
+- Railway
+- Docker
+
+## Status
+
+🚧 Currently under development.
